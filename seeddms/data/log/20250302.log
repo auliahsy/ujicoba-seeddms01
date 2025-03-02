@@ -1,0 +1,19 @@
+Mar 02 12:30:56  [info] -- (10.240.3.196) op.Login.php 
+Mar 02 12:30:56  [info] Authentication service 'db'
+Mar 02 12:30:56  [error] Authentication service 'db': Authentication of user 'admin' failed.
+Mar 02 12:30:56  [error] -- (10.240.3.196) op.Login.php login failed
+Mar 02 12:38:46  [info] -- (10.240.3.196) op.Login.php 
+Mar 02 12:38:46  [info] Authentication service 'db'
+Mar 02 12:38:46  [error] Authentication service 'db': Authentication of user 'auliahsy' disregarded.
+Mar 02 12:38:46  [error] -- (10.240.3.196) op.Login.php login failed
+Mar 02 12:39:26  [info] -- (10.240.2.99) op.Login.php 
+Mar 02 12:39:26  [info] Authentication service 'db'
+Mar 02 12:39:26  [error] Authentication service 'db': Authentication of user 'auliahsy' disregarded.
+Mar 02 12:39:26  [error] -- (10.240.2.99) op.Login.php login failed
+Mar 02 12:41:31  [info] -- (10.240.4.161) op.Login.php 
+Mar 02 12:41:31  [info] Authentication service 'db'
+Mar 02 12:41:31  [error] Authentication service 'db': Authentication of user 'auliahsy' disregarded.
+Mar 02 12:41:31  [error] -- (10.240.4.161) op.Login.php login failed
+Mar 02 12:44:44  [info] -- (10.240.4.3) op.Login.php 
+Mar 02 12:44:44  [info] Authentication service 'db'
+Mar 02 12:44:44  [info] Authentication service 'db': Authentication of user 'admin' successful.
